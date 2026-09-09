@@ -145,8 +145,8 @@
 
 ## Build Requirements
 
-- Android Studio: Ladybug / Meerkat or newer
-- Android SDK 36
+- Android Studio: Latest build
+- Android SDK 37
 - Minimum SDK 26
 - Gradle 9+
 - Java 17
